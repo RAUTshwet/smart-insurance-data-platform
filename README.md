@@ -1,41 +1,22 @@
-# Smart Insurance Data Platform
+# Power BI Dashboard
 
-## 📌 Project Overview
+Use these Gold CSV files as Power BI sources:
 
-Smart Insurance Data Platform is an end-to-end Data Engineering project designed to process insurance data such as customers, policies, claims, and payments.
+1. `data/gold/customer_360.csv`
+2. `data/gold/policy_summary.csv`
+3. `data/gold/claims_by_type.csv`
+4. `data/gold/payment_summary.csv`
 
-The project demonstrates a modern data engineering workflow including data ingestion, data cleaning, data quality validation, transformation, incremental processing, and analytical data preparation.
+Recommended dashboard visuals:
 
-## 🎯 Project Objective
-
-The main objective of this project is to build a scalable and reliable data platform that converts raw insurance data into clean, validated, and analytics-ready datasets.
-
-## 🛠️ Technologies
-
-- Python
-- SQL
-- PySpark
-- Databricks
-- Delta Lake
-- Power BI
-- GitHub
-- Medallion Architecture
-
-## 🏗️ Architecture
-
-```text
-Source Data
-    ↓
-Bronze Layer
-    ↓
-Data Quality & Validation
-    ↓
-Silver Layer
-    ↓
-Business Transformations
-    ↓
-Gold Layer
-    ↓
-SQL Analytics
-    ↓
-Power BI Dashboard
+- KPI Card: Total Premium
+- KPI Card: Total Claims
+- KPI Card: Total Claim Amount
+- KPI Card: Total Payments
+- Column chart: Premium by Policy Type
+- Donut chart: Claims by Status
+- Bar chart: Claims by Type
+- Column chart: Payment Status
+- Table: Top Customers by Claim Amount
+- Slicer: State
+- Slicer: Policy Type
