@@ -1,0 +1,101 @@
+customer_id,customer_name,gender,date_of_birth,city,state,email,registration_date
+C001,Amit Sharma,Male,1988-04-12,Pune,Maharashtra,amit.sharma@email.com,2024-01-15
+C002,Neha Patil,Female,1992-07-25,Mumbai,Maharashtra,neha.patil@email.com,2024-01-18
+C003,Rahul Verma,Male,1985-11-18,Delhi,Delhi,rahul.verma@email.com,2024-01-21
+C004,Priya Singh,Female,1990-03-05,Bangalore,Karnataka,priya.singh@email.com,2024-01-24
+C005,Sneha Joshi,Female,1995-09-14,Pune,Maharashtra,sneha.joshi@email.com,2024-01-28
+C006,Rohit Kulkarni,Male,1987-06-30,Nashik,Maharashtra,rohit.kulkarni@email.com,2024-02-02
+C007,Anjali Mehta,Female,1993-12-20,Ahmedabad,Gujarat,anjali.mehta@email.com,2024-02-05
+C008,Vikas Gupta,Male,1982-08-11,Jaipur,Rajasthan,vikas.gupta@email.com,2024-02-08
+C009,Pooja Deshmukh,Female,1991-01-28,Pune,Maharashtra,pooja.deshmukh@email.com,2024-02-12
+C010,Arjun Nair,Male,1989-10-09,Kochi,Kerala,arjun.nair@email.com,2024-02-15
+C011,Karan Shah,Male,1986-04-22,Surat,Gujarat,karan.shah@email.com,2024-02-18
+C012,Riya Kapoor,Female,1994-06-17,Chandigarh,Chandigarh,riya.kapoor@email.com,2024-02-21
+C013,Sachin More,Male,1983-09-29,Pune,Maharashtra,sachin.more@email.com,2024-02-25
+C014,Meera Iyer,Female,1990-12-03,Chennai,Tamil Nadu,meera.iyer@email.com,2024-02-28
+C015,Nikhil Pawar,Male,1991-05-11,Nagpur,Maharashtra,nikhil.pawar@email.com,2024-03-02
+C016,Kavita Rao,Female,1988-08-26,Hyderabad,Telangana,kavita.rao@email.com,2024-03-05
+C017,Akash Jain,Male,1993-02-14,Indore,Madhya Pradesh,akash.jain@email.com,2024-03-08
+C018,Swati Bhosale,Female,1987-11-07,Pune,Maharashtra,swati.bhosale@email.com,2024-03-11
+C019,Manish Yadav,Male,1985-07-19,Lucknow,Uttar Pradesh,manish.yadav@email.com,2024-03-14
+C020,Deepa Menon,Female,1992-10-31,Kochi,Kerala,deepa.menon@email.com,2024-03-17
+C021,Rajesh Kumar,Male,1981-03-23,Delhi,Delhi,rajesh.kumar@email.com,2024-03-20
+C022,Shalini Gupta,Female,1989-09-15,Noida,Uttar Pradesh,shalini.gupta@email.com,2024-03-23
+C023,Prakash Reddy,Male,1984-01-09,Hyderabad,Telangana,prakash.reddy@email.com,2024-03-26
+C024,Komal Agarwal,Female,1995-04-28,Jaipur,Rajasthan,komal.agarwal@email.com,2024-03-29
+C025,Sameer Khan,Male,1988-06-12,Mumbai,Maharashtra,sameer.khan@email.com,2024-04-01
+C026,Nandini Kulkarni,Female,1991-08-04,Pune,Maharashtra,nandini.kulkarni@email.com,2024-04-04
+C027,Abhishek Mishra,Male,1986-12-19,Kanpur,Uttar Pradesh,abhishek.mishra@email.com,2024-04-07
+C028,Divya Nair,Female,1993-05-25,Thiruvananthapuram,Kerala,divya.nair@email.com,2024-04-10
+C029, Suresh Patil,Male,1982-02-16,Kolhapur,Maharashtra,suresh.patil@email.com,2024-04-13
+C030,Ananya Bose,Female,1996-07-08,Kolkata,West Bengal,ananya.bose@email.com,2024-04-16
+C031,Harish Soni,Male,1987-10-21,Ahmedabad,Gujarat,harish.soni@email.com,2024-04-19
+C032,Preeti Sharma,Female,1990-03-13,Delhi,Delhi,preeti.sharma@email.com,2024-04-22
+C033,Omkar Jadhav,Male,1992-11-30,Pune,Maharashtra,omkar.jadhav@email.com,2024-04-25
+C034,Shreya Desai,Female,1994-01-17,Mumbai,Maharashtra,shreya.desai@email.com,2024-04-28
+C035,Ajay Thakur,Male,1983-08-09,Shimla,Himachal Pradesh,ajay.thakur@email.com,2024-05-01
+C036,Monika Jain,Female,1988-05-22,Indore,Madhya Pradesh,monika.jain@email.com,2024-05-04
+C037,Vinod Pawar,Male,1980-10-15,Nashik,Maharashtra,vinod.pawar@email.com,2024-05-07
+C038,Isha Malhotra,Female,1995-02-27,Gurgaon,Haryana,isha.malhotra@email.com,2024-05-10
+C039,Sunil Joshi,Male,1985-06-03,Pune,Maharashtra,sunil.joshi@email.com,2024-05-13
+C040,Tanvi Kulkarni,Female,1997-09-18,Pune,Maharashtra,tanvi.kulkarni@email.com,2024-05-16
+C041,Ramesh Gupta,Male,1982-04-07,Jaipur,Rajasthan,ramesh.gupta@email.com,2024-05-19
+C042,Aarti Deshmukh,Female,1991-12-11,Aurangabad,Maharashtra,aarti.deshmukh@email.com,2024-05-22
+C043,Shivam Verma,Male,1994-06-26,Bhopal,Madhya Pradesh,shivam.verma@email.com,2024-05-25
+C044,Madhuri Rao,Female,1986-09-02,Bangalore,Karnataka,madhuri.rao@email.com,2024-05-28
+C045,Gaurav Singh,Male,1989-01-24,Lucknow,Uttar Pradesh,gaurav.singh@email.com,2024-05-31
+C046,Rekha Iyer,Female,1984-07-13,Chennai,Tamil Nadu,rekha.iyer@email.com,2024-06-03
+C047,Pranav Shah,Male,1993-03-31,Surat,Gujarat,pranav.shah@email.com,2024-06-06
+C048,Sonal Mehta,Female,1990-11-08,Ahmedabad,Gujarat,sonal.mehta@email.com,2024-06-09
+C049,Mahesh Yadav,Male,1981-05-19,Patna,Bihar,mahesh.yadav@email.com,2024-06-12
+C050,Simran Kaur,Female,1996-08-23,Amritsar,Punjab,simran.kaur@email.com,2024-06-15
+C051,Anil Chavan,Male,1987-02-05,Pune,Maharashtra,anil.chavan@email.com,2024-06-18
+C052,Rashmi Naik,Female,1992-04-16,Goa,Goa,rashmi.naik@email.com,2024-06-21
+C053,Devendra Singh,Male,1984-10-28,Jaipur,Rajasthan,devendra.singh@email.com,2024-06-24
+C054,Neelam Sharma,Female,1989-06-07,Delhi,Delhi,neelam.sharma@email.com,2024-06-27
+C055,Tejas Joshi,Male,1995-01-12,Pune,Maharashtra,tejas.joshi@email.com,2024-06-30
+C056,Pallavi Patil,Female,1993-08-19,Satara,Maharashtra,pallavi.patil@email.com,2024-07-03
+C057,Anand Kumar,Male,1980-12-25,Patna,Bihar,anand.kumar@email.com,2024-07-06
+C058,Shweta Rao,Female,1991-03-10,Hyderabad,Telangana,shweta.rao@email.com,2024-07-09
+C059,Rohit Sharma,Male,1988-09-04,Delhi,Delhi,rohit.sharma@email.com,2024-07-12
+C060,Nisha Gupta,Female,1994-05-21,Noida,Uttar Pradesh,nisha.gupta@email.com,2024-07-15
+C061,Manoj More,Male,1986-07-16,Pune,Maharashtra,manoj.more@email.com,2024-07-18
+C062,Sonali Pawar,Female,1990-10-29,Nashik,Maharashtra,sonali.pawar@email.com,2024-07-21
+C063,Rajiv Nair,Male,1983-02-11,Kochi,Kerala,rajiv.nair@email.com,2024-07-24
+C064,Kirti Joshi,Female,1995-06-24,Pune,Maharashtra,kirti.joshi@email.com,2024-07-27
+C065,Sanjay Mehta,Male,1982-11-06,Ahmedabad,Gujarat,sanjay.mehta@email.com,2024-07-30
+C066,Radhika Shah,Female,1988-01-18,Mumbai,Maharashtra,radhika.shah@email.com,2024-08-02
+C067,Prashant Jadhav,Male,1987-04-30,Pune,Maharashtra,prashant.jadhav@email.com,2024-08-05
+C068,Swara Desai,Female,1996-09-12,Mumbai,Maharashtra,swara.desai@email.com,2024-08-08
+C069,Mukesh Gupta,Male,1981-08-27,Jaipur,Rajasthan,mukesh.gupta@email.com,2024-08-11
+C070,Renuka Patil,Female,1992-12-05,Pune,Maharashtra,renuka.patil@email.com,2024-08-14
+C071,Yogesh Kulkarni,Male,1985-03-17,Pune,Maharashtra,yogesh.kulkarni@email.com,2024-08-17
+C072,Vaishali More,Female,1991-07-29,Nagpur,Maharashtra,vaishali.more@email.com,2024-08-20
+C073,Deepak Singh,Male,1989-11-13,Lucknow,Uttar Pradesh,deepak.singh@email.com,2024-08-23
+C074,Archana Rao,Female,1987-05-06,Bangalore,Karnataka,archana.rao@email.com,2024-08-26
+C075,Naveen Reddy,Male,1993-10-22,Hyderabad,Telangana,naveen.reddy@email.com,2024-08-29
+C076,Sakshi Jain,Female,1997-02-14,Indore,Madhya Pradesh,sakshi.jain@email.com,2024-09-01
+C077,Milind Bhosale,Male,1984-06-09,Pune,Maharashtra,milind.bhosale@email.com,2024-09-04
+C078,Chitra Menon,Female,1990-09-25,Kochi,Kerala,chitra.menon@email.com,2024-09-07
+C079,Pradeep Kumar,Male,1983-12-18,Delhi,Delhi,pradeep.kumar@email.com,2024-09-10
+C080,Alka Sharma,Female,1986-04-11,Chandigarh,Chandigarh,alka.sharma@email.com,2024-09-13
+C081,Rajendra Pawar,Male,1979-08-03,Pune,Maharashtra,rajendra.pawar@email.com,2024-09-16
+C082,Manisha Gupta,Female,1993-01-27,Delhi,Delhi,manisha.gupta@email.com,2024-09-19
+C083,Swapnil Patil,Male,1991-05-15,Pune,Maharashtra,swapnil.patil@email.com,2024-09-22
+C084,Neeta Kulkarni,Female,1985-10-08,Pune,Maharashtra,neeta.kulkarni@email.com,2024-09-25
+C085,Shailesh Shah,Male,1980-03-19,Surat,Gujarat,shailesh.shah@email.com,2024-09-28
+C086,Ankita Verma,Female,1994-07-02,Delhi,Delhi,ankita.verma@email.com,2024-10-01
+C087,Amol Jadhav,Male,1988-12-09,Pune,Maharashtra,amol.jadhav@email.com,2024-10-04
+C088,Divya Sharma,Female,1992-02-21,Jaipur,Rajasthan,divya.sharma@email.com,2024-10-07
+C089,Pratik Desai,Male,1995-09-16,Mumbai,Maharashtra,pratik.desai@email.com,2024-10-10
+C090,Seema Rao,Female,1989-06-28,Hyderabad,Telangana,seema.rao@email.com,2024-10-13
+C091,Atul Patil,Male,1986-11-14,Pune,Maharashtra,atul.patil@email.com,2024-10-16
+C092,Reena Joshi,Female,1991-04-23,Nashik,Maharashtra,reena.joshi@email.com,2024-10-19
+C093,Akshay Mehta,Male,1993-08-07,Ahmedabad,Gujarat,akshay.mehta@email.com,2024-10-22
+C094,Minal Shah,Female,1987-12-16,Mumbai,Maharashtra,minal.shah@email.com,2024-10-25
+C095,Vijay Kumar,Male,1982-05-29,Delhi,Delhi,vijay.kumar@email.com,2024-10-28
+C096,Rupali More,Female,1996-03-08,Pune,Maharashtra,rupali.more@email.com,2024-10-31
+C097,Siddharth Jain,Male,1989-07-20,Indore,Madhya Pradesh,siddharth.jain@email.com,2024-11-03
+C098,Asmita Patil,Female,1994-10-12,Pune,Maharashtra,asmita.patil@email.com,2024-11-06
+C099,Varun Nair,Male,1985-01-31,Kochi,Kerala,varun.nair@email.com,2024-11-09
+C100,Shivani Deshmukh,Female,1990-06-18,Pune,Maharashtra,shivani.deshmukh@email.com,2024-11-12
